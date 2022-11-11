@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.count {
+  color: #ffd569;
+}
+.bottom {
+  display: flex;
+  flex-direction: row;
+}
+
+.bg {
+  background-color: #ffd569;
+  height: 100vh;
+  padding: 30px;
+}
+.card {
+  background-color: #ffffff;
+  height: 100vh;
+  text-align: center;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.img {
+  height: 150px;
+  width: 150px;
+  margin: 25px;
+}
+.fruitContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.button {
+  background-color: #007bff;
+  border-width: 0px;
+  color: #ffffff;
+  padding: 8px;
+  border-radius: 5px;
+}
